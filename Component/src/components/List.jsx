@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 function List() {
   return (
@@ -10,4 +10,4 @@ function List() {
   );
 }
 
-export default List;
+export default List
